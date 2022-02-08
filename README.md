@@ -15,4 +15,4 @@ Collect, analyze and visualize weather data across cities worldwide and to provi
 <img width="971" alt="WeatherPy_travel_map_markers" src="https://user-images.githubusercontent.com/95730183/152901988-6c278251-50af-4e51-b515-e37a9113bcbe.png">
 
 ### Summary
-Using travelers weather preferences, Google Maps Directions API, and the OpenWeatherMap we were able to create an itinerary to fit customers vacation needs.  We could continue this analysis by using thier budget prefernces when choosing the hotels from the Google Directions API.
+Using travelers weather preferences, Google Maps Directions API, and the OpenWeatherMap we were able to create an itinerary to fit customers vacation needs.  We could continue this analysis by using thier budget criteria when choosing the hotels from the Google Directions API.
